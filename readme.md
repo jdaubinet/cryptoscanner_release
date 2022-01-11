@@ -1,4 +1,5 @@
-
+This cryptoscanner / daytrader app is an tool that helps you make decide if an coin is having an trend up or down ! <br >
+This App is not suppose to replace your own research and trading is your own risk !
 Preview <br />
 Settings <br />
 ![alt text](https://i.ibb.co/26NdZp3/ssss.png)
