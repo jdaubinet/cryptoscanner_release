@@ -6,6 +6,8 @@ Settings <br />
 <br />
 Scanning for pairs <br />
 ![alt text](https://i.ibb.co/qrGkvYt/image.png)
+listed coins <br />
+![alt text](https://i.ibb.co/VYZjTd8/image.png)
 
 
 Virustotal Scan 11/01/2022
