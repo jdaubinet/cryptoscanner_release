@@ -1,7 +1,9 @@
 
 Preview <br />
+Settings <br />
 ![alt text](https://i.ibb.co/26NdZp3/ssss.png)
 <br />
+Scanning for pairs <br />
 ![alt text](https://i.ibb.co/qrGkvYt/image.png)
 
 
